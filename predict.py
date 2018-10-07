@@ -1,3 +1,9 @@
+"""Predict the language of test files from the model trained with train.py.
+
+Authors: Joe Comer, Roger Filmyer
+April 2018
+"""
+
 import os
 import argparse
 import tempfile

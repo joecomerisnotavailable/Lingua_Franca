@@ -1,3 +1,10 @@
+"""
+Train the CNN.
+Authors: Joe Comer, Roger Filmyer
+April 2018
+"""
+
+
 # Tensorflow Imports
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
